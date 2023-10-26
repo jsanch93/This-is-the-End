@@ -1,5 +1,7 @@
-# YOUR SONG
+# I Know The End by Phoebe Bridgers
 
-> Lyric from your song
+> The end is here...
 
 ## Citations
+* [Genius] (https://genius.com/Phoebe-bridgers-i-know-the-end-lyrics)
+* [Open Props] (https://open-props.style/) 
