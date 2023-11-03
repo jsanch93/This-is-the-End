@@ -1,3 +1,45 @@
 @import "https://unpkg.com/open-props";
 
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
+body {
+    background: var(--gradient-21);
+  }
+  
+  main {
+     width: 800px;
+    margin: 0 auto 0 auto;
+    padding: 32px;
+    text-align: center;
+    font-family: 'Press Start 2P';
+    }
+
+figure {
+    font-size: 10px;
+    line-height: 16px;
+
+}
+  
+  audio {
+    width: 100%;
+  }
+  
+  h1 {
+    text-align: center;
+    font-family: 'Comico', cursive;
+    }
+  
+  h1:hover {
+    animation: var(--animation-shake-x)
+  }
+  
+  h1 a {
+  
+    color: lightcoral;
+    text-decoration: none;
+  }
+  
+  h1 a:hover {
+    color: var(--cyan-7);
+  }
+  
