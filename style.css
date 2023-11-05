@@ -7,12 +7,12 @@ body {
   }
   
   main {
-    width: 575px;
+    width: 650px;
    margin: 0 auto 0 auto;
    padding: 32px;
    text-align: center;
    font-family: 'Press Start 2P';
-   background: blanchedalmond;
+   background: var(--cyan-0);
    border-radius: var(--radius-3)
    }
 
@@ -25,6 +25,12 @@ figure {
   audio {
     width: 100%;
   }
+
+  audio::-webkit-media-controls-play-button,
+     audio::-webkit-media-controls-panel {
+     background-color: var(--cyan-0);
+     color: #000;
+     }
   
   h1 {
     text-align: center;
