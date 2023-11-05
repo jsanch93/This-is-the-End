@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
 body {
-    background: var(--gradient-21);
+    background: var(--gradient-23);
   }
   
   main {
@@ -32,16 +32,18 @@ figure {
     }
   
   h1:hover {
-    animation: var(--animation-shake-x)
+    animation: var(--animation-ping);
   }
   
   h1 a {
-  
-    color: lightcoral;
+    color: var(--gray-6);
     text-decoration: none;
   }
   
-  h1 a:hover {
-    color: var(--cyan-7);
-  }
+span:hover {
+  display: inline-block;
+  animation: var(--animation-pulse);
+}
+
+  
   
