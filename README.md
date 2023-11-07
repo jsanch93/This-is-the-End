@@ -7,3 +7,4 @@
 * [Open Props] (https://open-props.style/) 
 * [font share] (https://www.fontshare.com/fonts/comico)
 * [google fonts] (https://fonts.google.com/specimen/Press+Start+2P?query=press)
+* [hubspot] (https://blog.hubspot.com/website/scrolling-text-css)
